@@ -1,0 +1,31 @@
+{
+  "name": "agerecompany/zfc-autocomplete",
+  "description": "Enables users to quickly find and select from a pre-populated list of values as they type, leveraging searching and filtering.",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "autocomplete",
+    "quickly find",
+    "searching",
+    "filtering",
+    "agere"
+  ],
+  "authors": [
+    {
+      "name": "Vlad Kozak",
+      "email": "vlad.gem.typ@gmail.com",
+      "homepage": "http://agere.com.ua/",
+      "role": "Developer"
+    },
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.5",
+    "gedmo/doctrine-extensions": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Agere\\Autocomplete\\": "src/"
+    }
+  }
+}
