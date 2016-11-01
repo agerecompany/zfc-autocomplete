@@ -16,7 +16,7 @@
       "email": "vlad.gem.typ@gmail.com",
       "homepage": "http://agere.com.ua/",
       "role": "Developer"
-    },
+    }
   ],
   "minimum-stability": "stable",
   "require": {
