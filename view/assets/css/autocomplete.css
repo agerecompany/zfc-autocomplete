@@ -1,6 +1,8 @@
-#ui-id-1 {
-	font-size: 18px;
+.ui-menu {
 	background: #FFFFFF;
 	height: 150px;
 	overflow-x: hidden;
+}
+.ui-menu .ui-menu-item {
+	font-size: 18px;
 }
