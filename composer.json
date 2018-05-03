@@ -20,8 +20,7 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "php": ">=5.5",
-    "gedmo/doctrine-extensions": "dev-master"
+    "php": ">=5.5"
   },
   "autoload": {
     "psr-4": {
