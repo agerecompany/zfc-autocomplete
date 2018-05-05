@@ -7,7 +7,7 @@
 
 namespace Agere\Autocomplete\Service;
 
-use Agere\Core\Service\DomainServiceAbstract;
+use Popov\ZfcCore\Service\DomainServiceAbstract;
 use Agere\Autocomplete\Model\Autocomplete;
 
 class AutocompleteService extends DomainServiceAbstract

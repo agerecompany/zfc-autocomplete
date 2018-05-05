@@ -2,8 +2,8 @@
 namespace Agere\Autocomplete\Controller;
 
 use Zend\Mvc\Controller\AbstractActionController;
-use Agere\Core\Service\ServiceManagerAwareTrait;
-use Agere\Core\Controller\DeleteActionAwareTrait;
+use Popov\ZfcCore\Service\ServiceManagerAwareTrait;
+use Popov\ZfcCore\Controller\DeleteActionAwareTrait;
 use Agere\Autocomplete\Model\Autocomplete;
 use Zend\View\Model\JsonModel;
 
